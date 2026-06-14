@@ -1,0 +1,6 @@
+{
+  "name": "CRM & Setup",
+  "description": "Сайт компании по автоматизации бизнеса и внедрению CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
